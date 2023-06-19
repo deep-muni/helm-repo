@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helm-repo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-06-19T14:10:20.556451+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 5079573cd827db6bf780fa83d1d15fe3c5be917e6bcae92efd2e6007c4db2a32
+    name: helm-repo
+    type: application
+    urls:
+    - https://github.com/deep-muni/helm-repo/helm-repo-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-06-19T14:10:20.555669+05:30"
